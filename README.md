@@ -2,7 +2,7 @@
 
 An end-to-end data engineering project on NYC Yellow/Green Taxi trip records — from raw CSV ingestion to a live Looker Studio dashboard. Built on Google Cloud using Mage for orchestration, BigQuery as the data warehouse, and a star schema dimensional model designed for analytical querying.
 
-📊 [View Live Dashboard](https://lookerstudio.google.com/s/ry5lrPQj4No) &nbsp;|&nbsp; 📄 [Dashboard PDF](Output/Final%20Dashboard/Uber_Dashboard.pdf)
+📊 [Dashboard PDF](Output/Final%20Dashboard/Uber_Dashboard.pdf)
 
 ---
 
