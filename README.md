@@ -92,7 +92,6 @@ Mage was deployed on a Google Compute Engine VM and used as the orchestration la
 
 Built in Looker Studio connected live to BigQuery. 
 
-📊 [Open Live Dashboard](https://lookerstudio.google.com/s/ry5lrPQj4No)
 
 ![Dashboard](Output/Final%20Dashboard/Uber_Dashboard.pdf)
 
